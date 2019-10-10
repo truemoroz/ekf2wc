@@ -1,0 +1,17 @@
+mrzn-10-100m
+mrzn-10-20-100
+mrzn-12-100m
+mrzn-12-20-100
+mrzn-15-100m
+mrzn-15-20-100
+mrzn-18-15-75
+mrzn-18-50m
+mrzn-20-15-75
+mrzn-20-50m
+mrzn-22-15-75
+mrzn-22-50m
+mrzn-25-15-75
+mrzn-25-50m
+mrzn-32-25m
+mrzn-38-25m
+mrzn-50-20m

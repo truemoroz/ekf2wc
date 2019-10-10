@@ -1,0 +1,17 @@
+mrzn-10-100
+mrzn-10-20
+mrzn-12-100
+mrzn-12-20
+mrzn-15-100
+mrzn-15-20
+mrzn-18-15
+mrzn-18-50
+mrzn-20-15
+mrzn-20-50
+mrzn-22-15
+mrzn-22-50
+mrzn-25-15
+mrzn-25-50
+mrzn-32-25
+mrzn-38-25
+mrzn-50-15

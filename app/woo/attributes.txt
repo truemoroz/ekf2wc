@@ -1,0 +1,1182 @@
+02.03.19 14:03: [
+    {
+        "id": 1,
+        "name": "Код товара",
+        "slug": "pa_kod-tovara",
+        "type": "select",
+        "order_by": "menu_order",
+        "has_archives": true,
+        "_links": {
+            "self": [
+                {
+                    "href": "https://armakom.net/wp-json/wc/v3/products/attributes/1"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://armakom.net/wp-json/wc/v3/products/attributes"
+                }
+            ]
+        }
+    },
+    {
+        "id": 2,
+        "name": "Артикул",
+        "slug": "pa_artikul",
+        "type": "select",
+        "order_by": "menu_order",
+        "has_archives": true,
+        "_links": {
+            "self": [
+                {
+                    "href": "https://armakom.net/wp-json/wc/v3/products/attributes/2"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://armakom.net/wp-json/wc/v3/products/attributes"
+                }
+            ]
+        }
+    },
+    {
+        "id": 3,
+        "name": "Страна",
+        "slug": "pa_strana",
+        "type": "select",
+        "order_by": "menu_order",
+        "has_archives": true,
+        "_links": {
+            "self": [
+                {
+                    "href": "https://armakom.net/wp-json/wc/v3/products/attributes/3"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://armakom.net/wp-json/wc/v3/products/attributes"
+                }
+            ]
+        }
+    },
+    {
+        "id": 4,
+        "name": "Упаковка",
+        "slug": "pa_upakovka",
+        "type": "select",
+        "order_by": "menu_order",
+        "has_archives": true,
+        "_links": {
+            "self": [
+                {
+                    "href": "https://armakom.net/wp-json/wc/v3/products/attributes/4"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://armakom.net/wp-json/wc/v3/products/attributes"
+                }
+            ]
+        }
+    },
+    {
+        "id": 5,
+        "name": "Материал изделия",
+        "slug": "pa_material-izdeliya",
+        "type": "select",
+        "order_by": "menu_order",
+        "has_archives": true,
+        "_links": {
+            "self": [
+                {
+                    "href": "https://armakom.net/wp-json/wc/v3/products/attributes/5"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://armakom.net/wp-json/wc/v3/products/attributes"
+                }
+            ]
+        }
+    },
+    {
+        "id": 6,
+        "name": "Высота, мм",
+        "slug": "pa_vysota-mm",
+        "type": "select",
+        "order_by": "menu_order",
+        "has_archives": true,
+        "_links": {
+            "self": [
+                {
+                    "href": "https://armakom.net/wp-json/wc/v3/products/attributes/6"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://armakom.net/wp-json/wc/v3/products/attributes"
+                }
+            ]
+        }
+    },
+    {
+        "id": 7,
+        "name": "Длина, мм",
+        "slug": "pa_dlina-mm",
+        "type": "select",
+        "order_by": "menu_order",
+        "has_archives": true,
+        "_links": {
+            "self": [
+                {
+                    "href": "https://armakom.net/wp-json/wc/v3/products/attributes/7"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://armakom.net/wp-json/wc/v3/products/attributes"
+                }
+            ]
+        }
+    },
+    {
+        "id": 8,
+        "name": "Ширина, мм",
+        "slug": "pa_shirina-mm",
+        "type": "text label",
+        "order_by": "menu_order",
+        "has_archives": true,
+        "_links": {
+            "self": [
+                {
+                    "href": "https://armakom.net/wp-json/wc/v3/products/attributes/8"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://armakom.net/wp-json/wc/v3/products/attributes"
+                }
+            ]
+        }
+    },
+    {
+        "id": 9,
+        "name": "Тип изделия",
+        "slug": "pa_tip-izdeliya",
+        "type": "select",
+        "order_by": "menu_order",
+        "has_archives": true,
+        "_links": {
+            "self": [
+                {
+                    "href": "https://armakom.net/wp-json/wc/v3/products/attributes/9"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://armakom.net/wp-json/wc/v3/products/attributes"
+                }
+            ]
+        }
+    },
+    {
+        "id": 10,
+        "name": "Диаметр, мм",
+        "slug": "pa_diametr-mm",
+        "type": "select",
+        "order_by": "menu_order",
+        "has_archives": true,
+        "_links": {
+            "self": [
+                {
+                    "href": "https://armakom.net/wp-json/wc/v3/products/attributes/10"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://armakom.net/wp-json/wc/v3/products/attributes"
+                }
+            ]
+        }
+    },
+    {
+        "id": 11,
+        "name": "Количество в упаковке, шт",
+        "slug": "pa_kolichestvo-v-upakovke-sht",
+        "type": "select",
+        "order_by": "menu_order",
+        "has_archives": true,
+        "_links": {
+            "self": [
+                {
+                    "href": "https://armakom.net/wp-json/wc/v3/products/attributes/11"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://armakom.net/wp-json/wc/v3/products/attributes"
+                }
+            ]
+        }
+    },
+    {
+        "id": 12,
+        "name": "Масса, кг",
+        "slug": "pa_massa-kg",
+        "type": "select",
+        "order_by": "menu_order",
+        "has_archives": true,
+        "_links": {
+            "self": [
+                {
+                    "href": "https://armakom.net/wp-json/wc/v3/products/attributes/12"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://armakom.net/wp-json/wc/v3/products/attributes"
+                }
+            ]
+        }
+    },
+    {
+        "id": 13,
+        "name": "Дополнительная информация",
+        "slug": "pa_dopolnitelnaya-informaciya",
+        "type": "select",
+        "order_by": "menu_order",
+        "has_archives": true,
+        "_links": {
+            "self": [
+                {
+                    "href": "https://armakom.net/wp-json/wc/v3/products/attributes/13"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://armakom.net/wp-json/wc/v3/products/attributes"
+                }
+            ]
+        }
+    },
+    {
+        "id": 14,
+        "name": "Производитель",
+        "slug": "pa_proizvoditel",
+        "type": "select",
+        "order_by": "menu_order",
+        "has_archives": true,
+        "_links": {
+            "self": [
+                {
+                    "href": "https://armakom.net/wp-json/wc/v3/products/attributes/14"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://armakom.net/wp-json/wc/v3/products/attributes"
+                }
+            ]
+        }
+    },
+    {
+        "id": 15,
+        "name": "Модель",
+        "slug": "pa_model",
+        "type": "select",
+        "order_by": "menu_order",
+        "has_archives": true,
+        "_links": {
+            "self": [
+                {
+                    "href": "https://armakom.net/wp-json/wc/v3/products/attributes/15"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://armakom.net/wp-json/wc/v3/products/attributes"
+                }
+            ]
+        }
+    },
+    {
+        "id": 16,
+        "name": "Мощность двигателя (Вт.)",
+        "slug": "pa_moshhnost-dvigatelya-vt",
+        "type": "select",
+        "order_by": "menu_order",
+        "has_archives": true,
+        "_links": {
+            "self": [
+                {
+                    "href": "https://armakom.net/wp-json/wc/v3/products/attributes/16"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://armakom.net/wp-json/wc/v3/products/attributes"
+                }
+            ]
+        }
+    },
+    {
+        "id": 17,
+        "name": "Плотность (кг/дм3).",
+        "slug": "pa_plotnost-kgdm3",
+        "type": "select",
+        "order_by": "menu_order",
+        "has_archives": true,
+        "_links": {
+            "self": [
+                {
+                    "href": "https://armakom.net/wp-json/wc/v3/products/attributes/17"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://armakom.net/wp-json/wc/v3/products/attributes"
+                }
+            ]
+        }
+    },
+    {
+        "id": 18,
+        "name": "Вязкость (мПас).",
+        "slug": "pa_vyazkost-mpas",
+        "type": "select",
+        "order_by": "menu_order",
+        "has_archives": true,
+        "_links": {
+            "self": [
+                {
+                    "href": "https://armakom.net/wp-json/wc/v3/products/attributes/18"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://armakom.net/wp-json/wc/v3/products/attributes"
+                }
+            ]
+        }
+    },
+    {
+        "id": 19,
+        "name": "Подача (л/мин).",
+        "slug": "pa_podacha-lmin",
+        "type": "select",
+        "order_by": "menu_order",
+        "has_archives": true,
+        "_links": {
+            "self": [
+                {
+                    "href": "https://armakom.net/wp-json/wc/v3/products/attributes/19"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://armakom.net/wp-json/wc/v3/products/attributes"
+                }
+            ]
+        }
+    },
+    {
+        "id": 20,
+        "name": "Напор (м)",
+        "slug": "pa_napor-m",
+        "type": "select",
+        "order_by": "menu_order",
+        "has_archives": true,
+        "_links": {
+            "self": [
+                {
+                    "href": "https://armakom.net/wp-json/wc/v3/products/attributes/20"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://armakom.net/wp-json/wc/v3/products/attributes"
+                }
+            ]
+        }
+    },
+    {
+        "id": 21,
+        "name": "Температура использования",
+        "slug": "pa_temperatura-ispolzovaniya",
+        "type": "select",
+        "order_by": "menu_order",
+        "has_archives": true,
+        "_links": {
+            "self": [
+                {
+                    "href": "https://armakom.net/wp-json/wc/v3/products/attributes/21"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://armakom.net/wp-json/wc/v3/products/attributes"
+                }
+            ]
+        }
+    },
+    {
+        "id": 22,
+        "name": "Глубина погружения (мм)",
+        "slug": "pa_glubina-pogruzheniya-mm",
+        "type": "select",
+        "order_by": "menu_order",
+        "has_archives": true,
+        "_links": {
+            "self": [
+                {
+                    "href": "https://armakom.net/wp-json/wc/v3/products/attributes/22"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://armakom.net/wp-json/wc/v3/products/attributes"
+                }
+            ]
+        }
+    },
+    {
+        "id": 23,
+        "name": "Бренд (Марка)",
+        "slug": "pa_brend-marka",
+        "type": "select",
+        "order_by": "menu_order",
+        "has_archives": true,
+        "_links": {
+            "self": [
+                {
+                    "href": "https://armakom.net/wp-json/wc/v3/products/attributes/23"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://armakom.net/wp-json/wc/v3/products/attributes"
+                }
+            ]
+        }
+    },
+    {
+        "id": 24,
+        "name": "Страна производитель",
+        "slug": "pa_strana-proizvoditel",
+        "type": "select",
+        "order_by": "menu_order",
+        "has_archives": true,
+        "_links": {
+            "self": [
+                {
+                    "href": "https://armakom.net/wp-json/wc/v3/products/attributes/24"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://armakom.net/wp-json/wc/v3/products/attributes"
+                }
+            ]
+        }
+    },
+    {
+        "id": 25,
+        "name": "Область применения",
+        "slug": "pa_oblast-primeneniya",
+        "type": "select",
+        "order_by": "menu_order",
+        "has_archives": true,
+        "_links": {
+            "self": [
+                {
+                    "href": "https://armakom.net/wp-json/wc/v3/products/attributes/25"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://armakom.net/wp-json/wc/v3/products/attributes"
+                }
+            ]
+        }
+    },
+    {
+        "id": 26,
+        "name": "Единица измерения",
+        "slug": "pa_edinica-izmereniya",
+        "type": "select",
+        "order_by": "menu_order",
+        "has_archives": true,
+        "_links": {
+            "self": [
+                {
+                    "href": "https://armakom.net/wp-json/wc/v3/products/attributes/26"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://armakom.net/wp-json/wc/v3/products/attributes"
+                }
+            ]
+        }
+    },
+    {
+        "id": 27,
+        "name": "Доп. Описание",
+        "slug": "pa_dop-opisanie",
+        "type": "select",
+        "order_by": "menu_order",
+        "has_archives": true,
+        "_links": {
+            "self": [
+                {
+                    "href": "https://armakom.net/wp-json/wc/v3/products/attributes/27"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://armakom.net/wp-json/wc/v3/products/attributes"
+                }
+            ]
+        }
+    },
+    {
+        "id": 28,
+        "name": "Материал вала",
+        "slug": "pa_material-vala",
+        "type": "select",
+        "order_by": "menu_order",
+        "has_archives": true,
+        "_links": {
+            "self": [
+                {
+                    "href": "https://armakom.net/wp-json/wc/v3/products/attributes/28"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://armakom.net/wp-json/wc/v3/products/attributes"
+                }
+            ]
+        }
+    },
+    {
+        "id": 29,
+        "name": "Диаметр погружной  части (мм)",
+        "slug": "pa_diametr-pogruzhnoj-chasti-mm",
+        "type": "select",
+        "order_by": "menu_order",
+        "has_archives": true,
+        "_links": {
+            "self": [
+                {
+                    "href": "https://armakom.net/wp-json/wc/v3/products/attributes/29"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://armakom.net/wp-json/wc/v3/products/attributes"
+                }
+            ]
+        }
+    },
+    {
+        "id": 30,
+        "name": "Диаметр выходного штуцера (мм)",
+        "slug": "pa_diametr-vyxodnogo-shtucera-mm",
+        "type": "select",
+        "order_by": "menu_order",
+        "has_archives": true,
+        "_links": {
+            "self": [
+                {
+                    "href": "https://armakom.net/wp-json/wc/v3/products/attributes/30"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://armakom.net/wp-json/wc/v3/products/attributes"
+                }
+            ]
+        }
+    },
+    {
+        "id": 31,
+        "name": "Рабочее колесо",
+        "slug": "pa_rabochee-koleso",
+        "type": "select",
+        "order_by": "menu_order",
+        "has_archives": true,
+        "_links": {
+            "self": [
+                {
+                    "href": "https://armakom.net/wp-json/wc/v3/products/attributes/31"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://armakom.net/wp-json/wc/v3/products/attributes"
+                }
+            ]
+        }
+    },
+    {
+        "id": 32,
+        "name": "Тип рабочего колеса",
+        "slug": "pa_tip-rabochego-kolesa",
+        "type": "select",
+        "order_by": "menu_order",
+        "has_archives": true,
+        "_links": {
+            "self": [
+                {
+                    "href": "https://armakom.net/wp-json/wc/v3/products/attributes/32"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://armakom.net/wp-json/wc/v3/products/attributes"
+                }
+            ]
+        }
+    },
+    {
+        "id": 33,
+        "name": "Торцевое уплотнение (Да/Нет).",
+        "slug": "pa_torcevoe-uplotnenie-danet",
+        "type": "select",
+        "order_by": "menu_order",
+        "has_archives": true,
+        "_links": {
+            "self": [
+                {
+                    "href": "https://armakom.net/wp-json/wc/v3/products/attributes/33"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://armakom.net/wp-json/wc/v3/products/attributes"
+                }
+            ]
+        }
+    },
+    {
+        "id": 34,
+        "name": "Общее количество двигателей",
+        "slug": "pa_kolichestvo-dvig",
+        "type": "select",
+        "order_by": "menu_order",
+        "has_archives": true,
+        "_links": {
+            "self": [
+                {
+                    "href": "https://armakom.net/wp-json/wc/v3/products/attributes/34"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://armakom.net/wp-json/wc/v3/products/attributes"
+                }
+            ]
+        }
+    },
+    {
+        "id": 35,
+        "name": "Количество работающих двигателей одновременно",
+        "slug": "pa_kolichestvo-rabotayu",
+        "type": "select",
+        "order_by": "menu_order",
+        "has_archives": true,
+        "_links": {
+            "self": [
+                {
+                    "href": "https://armakom.net/wp-json/wc/v3/products/attributes/35"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://armakom.net/wp-json/wc/v3/products/attributes"
+                }
+            ]
+        }
+    },
+    {
+        "id": 36,
+        "name": "Тип насосного агрегата",
+        "slug": "pa_tip-nasosnogo-agregata",
+        "type": "select",
+        "order_by": "menu_order",
+        "has_archives": true,
+        "_links": {
+            "self": [
+                {
+                    "href": "https://armakom.net/wp-json/wc/v3/products/attributes/36"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://armakom.net/wp-json/wc/v3/products/attributes"
+                }
+            ]
+        }
+    },
+    {
+        "id": 37,
+        "name": "Напряжение, В",
+        "slug": "pa_napryazhenie-v",
+        "type": "select",
+        "order_by": "menu_order",
+        "has_archives": true,
+        "_links": {
+            "self": [
+                {
+                    "href": "https://armakom.net/wp-json/wc/v3/products/attributes/37"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://armakom.net/wp-json/wc/v3/products/attributes"
+                }
+            ]
+        }
+    },
+    {
+        "id": 38,
+        "name": "Марка (Бренд) комплектующих",
+        "slug": "pa_markabrend-komplek",
+        "type": "image select",
+        "order_by": "menu_order",
+        "has_archives": true,
+        "_links": {
+            "self": [
+                {
+                    "href": "https://armakom.net/wp-json/wc/v3/products/attributes/38"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://armakom.net/wp-json/wc/v3/products/attributes"
+                }
+            ]
+        }
+    },
+    {
+        "id": 39,
+        "name": "Признак предмета расчета",
+        "slug": "pa_ym_payment_subject",
+        "type": "select",
+        "order_by": "menu_order",
+        "has_archives": true,
+        "_links": {
+            "self": [
+                {
+                    "href": "https://armakom.net/wp-json/wc/v3/products/attributes/39"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://armakom.net/wp-json/wc/v3/products/attributes"
+                }
+            ]
+        }
+    },
+    {
+        "id": 40,
+        "name": "Признак способа расчёта",
+        "slug": "pa_ym_payment_mode",
+        "type": "select",
+        "order_by": "menu_order",
+        "has_archives": true,
+        "_links": {
+            "self": [
+                {
+                    "href": "https://armakom.net/wp-json/wc/v3/products/attributes/40"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://armakom.net/wp-json/wc/v3/products/attributes"
+                }
+            ]
+        }
+    },
+    {
+        "id": 41,
+        "name": "Плотность (кг/дм3).",
+        "slug": "pa_plotnost-kg-dm3",
+        "type": "select",
+        "order_by": "menu_order",
+        "has_archives": true,
+        "_links": {
+            "self": [
+                {
+                    "href": "https://armakom.net/wp-json/wc/v3/products/attributes/41"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://armakom.net/wp-json/wc/v3/products/attributes"
+                }
+            ]
+        }
+    },
+    {
+        "id": 42,
+        "name": "Торцевое уплотнение (Да/Нет).",
+        "slug": "pa_torcevoe-uplotnenie-da-net",
+        "type": "select",
+        "order_by": "menu_order",
+        "has_archives": true,
+        "_links": {
+            "self": [
+                {
+                    "href": "https://armakom.net/wp-json/wc/v3/products/attributes/42"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://armakom.net/wp-json/wc/v3/products/attributes"
+                }
+            ]
+        }
+    },
+    {
+        "id": 43,
+        "name": "Подача (л/мин).",
+        "slug": "pa_podacha-l-min",
+        "type": "select",
+        "order_by": "menu_order",
+        "has_archives": true,
+        "_links": {
+            "self": [
+                {
+                    "href": "https://armakom.net/wp-json/wc/v3/products/attributes/43"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://armakom.net/wp-json/wc/v3/products/attributes"
+                }
+            ]
+        }
+    },
+    {
+        "id": 44,
+        "name": "Номин. ток",
+        "slug": "pa_nomin-tok",
+        "type": "select",
+        "order_by": "menu_order",
+        "has_archives": true,
+        "_links": {
+            "self": [
+                {
+                    "href": "https://armakom.net/wp-json/wc/v3/products/attributes/44"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://armakom.net/wp-json/wc/v3/products/attributes"
+                }
+            ]
+        }
+    },
+    {
+        "id": 45,
+        "name": "Вес (кг)",
+        "slug": "pa_ves-kg",
+        "type": "select",
+        "order_by": "menu_order",
+        "has_archives": true,
+        "_links": {
+            "self": [
+                {
+                    "href": "https://armakom.net/wp-json/wc/v3/products/attributes/45"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://armakom.net/wp-json/wc/v3/products/attributes"
+                }
+            ]
+        }
+    },
+    {
+        "id": 46,
+        "name": "Объем (м3)",
+        "slug": "pa_obem-m3",
+        "type": "select",
+        "order_by": "menu_order",
+        "has_archives": true,
+        "_links": {
+            "self": [
+                {
+                    "href": "https://armakom.net/wp-json/wc/v3/products/attributes/46"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://armakom.net/wp-json/wc/v3/products/attributes"
+                }
+            ]
+        }
+    },
+    {
+        "id": 47,
+        "name": "Категория товара",
+        "slug": "pa_kategoriya-tovara",
+        "type": "select",
+        "order_by": "menu_order",
+        "has_archives": true,
+        "_links": {
+            "self": [
+                {
+                    "href": "https://armakom.net/wp-json/wc/v3/products/attributes/47"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://armakom.net/wp-json/wc/v3/products/attributes"
+                }
+            ]
+        }
+    },
+    {
+        "id": 48,
+        "name": "Торцевое уплотнение (мат-ал)",
+        "slug": "pa_torcevoe-uplotnenie-mat-al",
+        "type": "select",
+        "order_by": "menu_order",
+        "has_archives": true,
+        "_links": {
+            "self": [
+                {
+                    "href": "https://armakom.net/wp-json/wc/v3/products/attributes/48"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://armakom.net/wp-json/wc/v3/products/attributes"
+                }
+            ]
+        }
+    },
+    {
+        "id": 49,
+        "name": "Материал корпуса",
+        "slug": "pa_material-korpusa",
+        "type": "select",
+        "order_by": "menu_order",
+        "has_archives": true,
+        "_links": {
+            "self": [
+                {
+                    "href": "https://armakom.net/wp-json/wc/v3/products/attributes/49"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://armakom.net/wp-json/wc/v3/products/attributes"
+                }
+            ]
+        }
+    },
+    {
+        "id": 50,
+        "name": "Мембрана",
+        "slug": "pa_membrana",
+        "type": "select",
+        "order_by": "menu_order",
+        "has_archives": true,
+        "_links": {
+            "self": [
+                {
+                    "href": "https://armakom.net/wp-json/wc/v3/products/attributes/50"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://armakom.net/wp-json/wc/v3/products/attributes"
+                }
+            ]
+        }
+    },
+    {
+        "id": 51,
+        "name": "Клапан",
+        "slug": "pa_klapan",
+        "type": "select",
+        "order_by": "menu_order",
+        "has_archives": true,
+        "_links": {
+            "self": [
+                {
+                    "href": "https://armakom.net/wp-json/wc/v3/products/attributes/51"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://armakom.net/wp-json/wc/v3/products/attributes"
+                }
+            ]
+        }
+    },
+    {
+        "id": 52,
+        "name": "Вход воздуха",
+        "slug": "pa_vxod-vozduxa",
+        "type": "select",
+        "order_by": "menu_order",
+        "has_archives": true,
+        "_links": {
+            "self": [
+                {
+                    "href": "https://armakom.net/wp-json/wc/v3/products/attributes/52"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://armakom.net/wp-json/wc/v3/products/attributes"
+                }
+            ]
+        }
+    },
+    {
+        "id": 53,
+        "name": "Выход воздуха",
+        "slug": "pa_vyxod-vozduxa",
+        "type": "select",
+        "order_by": "menu_order",
+        "has_archives": true,
+        "_links": {
+            "self": [
+                {
+                    "href": "https://armakom.net/wp-json/wc/v3/products/attributes/53"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://armakom.net/wp-json/wc/v3/products/attributes"
+                }
+            ]
+        }
+    },
+    {
+        "id": 54,
+        "name": "Производительность (л/м)",
+        "slug": "pa_proizvoditelnost-l-m",
+        "type": "select",
+        "order_by": "menu_order",
+        "has_archives": true,
+        "_links": {
+            "self": [
+                {
+                    "href": "https://armakom.net/wp-json/wc/v3/products/attributes/54"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://armakom.net/wp-json/wc/v3/products/attributes"
+                }
+            ]
+        }
+    },
+    {
+        "id": 55,
+        "name": "Всасывающий патрубок",
+        "slug": "pa_vsasyvayushhij-patrubok",
+        "type": "select",
+        "order_by": "menu_order",
+        "has_archives": true,
+        "_links": {
+            "self": [
+                {
+                    "href": "https://armakom.net/wp-json/wc/v3/products/attributes/55"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://armakom.net/wp-json/wc/v3/products/attributes"
+                }
+            ]
+        }
+    },
+    {
+        "id": 56,
+        "name": "Напорный патрубок",
+        "slug": "pa_napornyj-patrubok",
+        "type": "select",
+        "order_by": "menu_order",
+        "has_archives": true,
+        "_links": {
+            "self": [
+                {
+                    "href": "https://armakom.net/wp-json/wc/v3/products/attributes/56"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://armakom.net/wp-json/wc/v3/products/attributes"
+                }
+            ]
+        }
+    },
+    {
+        "id": 57,
+        "name": "Объем камеры (см4)",
+        "slug": "pa_obem-kamery-sm4",
+        "type": "select",
+        "order_by": "menu_order",
+        "has_archives": true,
+        "_links": {
+            "self": [
+                {
+                    "href": "https://armakom.net/wp-json/wc/v3/products/attributes/57"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://armakom.net/wp-json/wc/v3/products/attributes"
+                }
+            ]
+        }
+    },
+    {
+        "id": 58,
+        "name": "Высота самовсасывания (м)",
+        "slug": "pa_vysota-samovsasyvaniya-m",
+        "type": "select",
+        "order_by": "menu_order",
+        "has_archives": true,
+        "_links": {
+            "self": [
+                {
+                    "href": "https://armakom.net/wp-json/wc/v3/products/attributes/58"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://armakom.net/wp-json/wc/v3/products/attributes"
+                }
+            ]
+        }
+    },
+    {
+        "id": 59,
+        "name": "Размер твердых частиц (мм)",
+        "slug": "pa_razmer-tverdyx-chastic-mm",
+        "type": "select",
+        "order_by": "menu_order",
+        "has_archives": true,
+        "_links": {
+            "self": [
+                {
+                    "href": "https://armakom.net/wp-json/wc/v3/products/attributes/59"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://armakom.net/wp-json/wc/v3/products/attributes"
+                }
+            ]
+        }
+    }
+]

@@ -1,0 +1,10 @@
+mrzp-10-50-g
+mrzp-12-50-g
+mrzp-15-50-g
+mrzp-18-50-g
+mrzp-20-50-g
+mrzp-22-20-g
+mrzp-25-20-g
+mrzp-32-20-g
+mrzp-38-20-g
+mrzp-50-20-g

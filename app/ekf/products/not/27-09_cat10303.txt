@@ -1,0 +1,8 @@
+tg2st-110-50m
+tg2st-125-50m
+tg2st-160-50m
+tg2st-200-35m
+tg2st-50-50m
+tg2st-63-50m
+tg2st-75-50m
+tg2st-90-50m

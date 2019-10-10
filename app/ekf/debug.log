@@ -1,0 +1,808 @@
+03.03.19 18:26: {
+    "id": "5b5c54ab-ef8f-11e6-bd2e-000c29c6d5f2",
+    "vendorCode": "mcb6-1-01B-av",
+    "shortName": "AV-6 1P  1A (B) 6kA EKF AVERES",
+    "name": "Выключатель автоматический AV-6 1P  1A (B) 6kA EKF AVERES",
+    "etimClass": "EC000042",
+    "properties": [
+        {
+            "id": "00edbb40-3713-11e8-80db-0cc47a0cbffe",
+            "name": "Номинальное импульсное выдерживаемое напряжение Uimp",
+            "etimFeature": "EF011980",
+            "value": 4000,
+            "etim_value": 4000,
+            "unit": "кВ",
+            "etimUnit": "EU570193"
+        },
+        {
+            "id": "0245454d-181b-11e6-9296-000c29c6d5f2",
+            "name": "Тип напряжения",
+            "etimFeature": "EF000187",
+            "value": "EV000460",
+            "etim_value": "AC (перемен.)",
+            "unit": "",
+            "etimUnit": ""
+        },
+        {
+            "id": "02454565-181b-11e6-9296-000c29c6d5f2",
+            "name": "Глубина установочная (встраив.)",
+            "etimFeature": "EF000218",
+            "value": 50,
+            "etim_value": 50,
+            "unit": "мм",
+            "etimUnit": "EU570448"
+        },
+        {
+            "id": "0245456c-181b-11e6-9296-000c29c6d5f2",
+            "name": "Номин. ток",
+            "etimFeature": "EF000227",
+            "value": 1,
+            "etim_value": 1,
+            "unit": "А",
+            "etimUnit": "EU570459"
+        },
+        {
+            "id": "0245456d-181b-11e6-9296-000c29c6d5f2",
+            "name": "Номин. (расчетное) напряжение",
+            "etimFeature": "EF000228",
+            "value": 230,
+            "etim_value": 230,
+            "unit": "В",
+            "etimUnit": "EU570079"
+        },
+        {
+            "id": "083d8a5c-181b-11e6-9296-000c29c6d5f2",
+            "name": "Частота",
+            "etimFeature": "EF000416",
+            "value": "50...50",
+            "etim_value": "50...50",
+            "unit": "Гц",
+            "etimUnit": "EU570028"
+        },
+        {
+            "id": "083d8bd6-181b-11e6-9296-000c29c6d5f2",
+            "name": "Характеристика срабатывания (кривая тока)",
+            "etimFeature": "EF000889",
+            "value": "EV000074",
+            "etim_value": "B",
+            "unit": "",
+            "etimUnit": ""
+        },
+        {
+            "id": "0e35d03c-181b-11e6-9296-000c29c6d5f2",
+            "name": "Номин. напряжение изоляции Ui",
+            "etimFeature": "EF001366",
+            "value": 660,
+            "etim_value": 660,
+            "unit": "В",
+            "etimUnit": "EU570079"
+        },
+        {
+            "id": "142e16ac-181b-11e6-9296-000c29c6d5f2",
+            "name": "Класс токоограничения",
+            "etimFeature": "EF002568",
+            "value": 3,
+            "etim_value": 3,
+            "unit": "",
+            "etimUnit": ""
+        },
+        {
+            "id": "142e16ad-181b-11e6-9296-000c29c6d5f2",
+            "name": "Категория перенапряжения",
+            "etimFeature": "EF002569",
+            "value": 3,
+            "etim_value": 3,
+            "unit": "",
+            "etimUnit": ""
+        },
+        {
+            "id": "142e16ae-181b-11e6-9296-000c29c6d5f2",
+            "name": "Степень загрязнения",
+            "etimFeature": "EF002570",
+            "value": 2,
+            "etim_value": 2,
+            "unit": "",
+            "etimUnit": ""
+        },
+        {
+            "id": "142e17c2-181b-11e6-9296-000c29c6d5f2",
+            "name": "Модульная ширина (общ. кол-во модульных расстояний)",
+            "etimFeature": "EF002950",
+            "value": 1,
+            "etim_value": 1,
+            "unit": "",
+            "etimUnit": ""
+        },
+        {
+            "id": "151ad191-8c4d-11e4-ba37-005056b80040",
+            "name": "Гарантийный срок эксплуатации, лет",
+            "etimFeature": "",
+            "value": 10,
+            "etim_value": 10,
+            "unit": "",
+            "etimUnit": ""
+        },
+        {
+            "id": "2616e833-181b-11e6-9296-000c29c6d5f2",
+            "name": "Степень защиты (IP)",
+            "etimFeature": "EF005474",
+            "value": "EV006405",
+            "etim_value": "IP20",
+            "unit": "",
+            "etimUnit": ""
+        },
+        {
+            "id": "2616e853-181b-11e6-9296-000c29c6d5f2",
+            "name": "Количество защищенных полюсов",
+            "etimFeature": "EF005548",
+            "value": 1,
+            "etim_value": 1,
+            "unit": "",
+            "etimUnit": ""
+        },
+        {
+            "id": "2616e94c-181b-11e6-9296-000c29c6d5f2",
+            "name": "Одновременное отключение нейтрали (N)",
+            "etimFeature": "EF005997",
+            "value": "Нет",
+            "etim_value": "Нет",
+            "unit": "",
+            "etimUnit": ""
+        },
+        {
+            "id": "2616e974-181b-11e6-9296-000c29c6d5f2",
+            "name": "Номин. отключающая способность по EN 60898",
+            "etimFeature": "EF006064",
+            "value": 6,
+            "etim_value": 6,
+            "unit": "кА",
+            "etimUnit": "EU570170"
+        },
+        {
+            "id": "2616e975-181b-11e6-9296-000c29c6d5f2",
+            "name": "Номин. отключающая способность по IEC 60947-2",
+            "etimFeature": "EF006065",
+            "value": 6,
+            "etim_value": 6,
+            "unit": "кА",
+            "etimUnit": "EU570170"
+        },
+        {
+            "id": "2c119066-181b-11e6-9296-000c29c6d5f2",
+            "name": "Подходит для скрытого монтажа (заподлицо)",
+            "etimFeature": "EF006573",
+            "value": "Нет",
+            "etim_value": "Нет",
+            "unit": "",
+            "etimUnit": ""
+        },
+        {
+            "id": "3209d602-181b-11e6-9296-000c29c6d5f2",
+            "name": "Поперечн. сечение подключ. однопроволочного (жесткого) провода",
+            "etimFeature": "EF007337",
+            "value": "1...25",
+            "etim_value": "1...25",
+            "unit": "мм²",
+            "etimUnit": "EU570126"
+        },
+        {
+            "id": "3209d607-181b-11e6-9296-000c29c6d5f2",
+            "name": "Поперечн. сечение подключ. многопроволочного (гибкого) провода",
+            "etimFeature": "EF007343",
+            "value": "1...25",
+            "etim_value": "1...25",
+            "unit": "мм²",
+            "etimUnit": "EU570126"
+        },
+        {
+            "id": "3209d67f-181b-11e6-9296-000c29c6d5f2",
+            "name": "Рабочая температура окружающей среды",
+            "etimFeature": "EF007515",
+            "value": "-25...50",
+            "etim_value": "-25...50",
+            "unit": "°C",
+            "etimUnit": "EU570073"
+        },
+        {
+            "id": "38021bf9-181b-11e6-9296-000c29c6d5f2",
+            "name": "Возможна дополнит. комплектация",
+            "etimFeature": "EF008148",
+            "value": "Да",
+            "etim_value": "Да",
+            "unit": "",
+            "etimUnit": ""
+        },
+        {
+            "id": "38021d7f-181b-11e6-9296-000c29c6d5f2",
+            "name": "Общ. количество полюсов",
+            "etimFeature": "EF008618",
+            "value": 1,
+            "etim_value": 1,
+            "unit": "",
+            "etimUnit": ""
+        },
+        {
+            "id": "859dacdb-1b0d-11e9-a20d-00155dfa1116",
+            "name": "Срок службы, лет",
+            "etimFeature": "",
+            "value": 10,
+            "etim_value": 10,
+            "unit": "",
+            "etimUnit": ""
+        },
+        {
+            "id": "faf55e51-3712-11e8-80db-0cc47a0cbffe",
+            "name": "Номинальная отключающая способность короткого замыкания Icn EN 60898 при 400В",
+            "etimFeature": "EF009555",
+            "value": 3500,
+            "etim_value": 3500,
+            "unit": "кА",
+            "etimUnit": "EU570170"
+        },
+        {
+            "id": "faf55e52-3712-11e8-80db-0cc47a0cbffe",
+            "name": "Номинальная отключающая способность короткого замыкания Icn EN 60898, при 230В",
+            "etimFeature": "EF009556",
+            "value": 6000,
+            "etim_value": 6000,
+            "unit": "кА",
+            "etimUnit": "EU570170"
+        },
+        {
+            "id": "faf55e53-3712-11e8-80db-0cc47a0cbffe",
+            "name": "Номинальная отключающая способность короткого замыкания Icu МЭК 60947-2, при 230В",
+            "etimFeature": "EF009557",
+            "value": 6000,
+            "etim_value": 6000,
+            "unit": "кА",
+            "etimUnit": "EU570170"
+        },
+        {
+            "id": "faf55e54-3712-11e8-80db-0cc47a0cbffe",
+            "name": "Номинальная отключающая способность короткого замыкания Icu МЭК 60947-2 при 400В",
+            "etimFeature": "EF009558",
+            "value": 3500,
+            "etim_value": 3500,
+            "unit": "кА",
+            "etimUnit": "EU570170"
+        }
+    ]
+}03.03.19 18:27: {
+    "id": "c139469b-57d0-11e6-b98c-000c29c6d5f2",
+    "vendorCode": "mcb6-1-02B-av",
+    "shortName": "AV-6 1P  2A (B) 6kA EKF AVERES",
+    "name": "Выключатель автоматический AV-6 1P  2A (B) 6kA EKF AVERES",
+    "etimClass": "EC000042",
+    "properties": [
+        {
+            "id": "00edbb40-3713-11e8-80db-0cc47a0cbffe",
+            "name": "Номинальное импульсное выдерживаемое напряжение Uimp",
+            "etimFeature": "EF011980",
+            "value": 4000,
+            "etim_value": 4000,
+            "unit": "кВ",
+            "etimUnit": "EU570193"
+        },
+        {
+            "id": "0245454d-181b-11e6-9296-000c29c6d5f2",
+            "name": "Тип напряжения",
+            "etimFeature": "EF000187",
+            "value": "EV000460",
+            "etim_value": "AC (перемен.)",
+            "unit": "",
+            "etimUnit": ""
+        },
+        {
+            "id": "02454565-181b-11e6-9296-000c29c6d5f2",
+            "name": "Глубина установочная (встраив.)",
+            "etimFeature": "EF000218",
+            "value": 50,
+            "etim_value": 50,
+            "unit": "мм",
+            "etimUnit": "EU570448"
+        },
+        {
+            "id": "0245456c-181b-11e6-9296-000c29c6d5f2",
+            "name": "Номин. ток",
+            "etimFeature": "EF000227",
+            "value": 2,
+            "etim_value": 2,
+            "unit": "А",
+            "etimUnit": "EU570459"
+        },
+        {
+            "id": "0245456d-181b-11e6-9296-000c29c6d5f2",
+            "name": "Номин. (расчетное) напряжение",
+            "etimFeature": "EF000228",
+            "value": 230,
+            "etim_value": 230,
+            "unit": "В",
+            "etimUnit": "EU570079"
+        },
+        {
+            "id": "083d8a5c-181b-11e6-9296-000c29c6d5f2",
+            "name": "Частота",
+            "etimFeature": "EF000416",
+            "value": "50...50",
+            "etim_value": "50...50",
+            "unit": "Гц",
+            "etimUnit": "EU570028"
+        },
+        {
+            "id": "083d8bd6-181b-11e6-9296-000c29c6d5f2",
+            "name": "Характеристика срабатывания (кривая тока)",
+            "etimFeature": "EF000889",
+            "value": "EV000074",
+            "etim_value": "B",
+            "unit": "",
+            "etimUnit": ""
+        },
+        {
+            "id": "0e35d03c-181b-11e6-9296-000c29c6d5f2",
+            "name": "Номин. напряжение изоляции Ui",
+            "etimFeature": "EF001366",
+            "value": 660,
+            "etim_value": 660,
+            "unit": "В",
+            "etimUnit": "EU570079"
+        },
+        {
+            "id": "142e16ac-181b-11e6-9296-000c29c6d5f2",
+            "name": "Класс токоограничения",
+            "etimFeature": "EF002568",
+            "value": 3,
+            "etim_value": 3,
+            "unit": "",
+            "etimUnit": ""
+        },
+        {
+            "id": "142e16ad-181b-11e6-9296-000c29c6d5f2",
+            "name": "Категория перенапряжения",
+            "etimFeature": "EF002569",
+            "value": 3,
+            "etim_value": 3,
+            "unit": "",
+            "etimUnit": ""
+        },
+        {
+            "id": "142e16ae-181b-11e6-9296-000c29c6d5f2",
+            "name": "Степень загрязнения",
+            "etimFeature": "EF002570",
+            "value": 2,
+            "etim_value": 2,
+            "unit": "",
+            "etimUnit": ""
+        },
+        {
+            "id": "142e17c2-181b-11e6-9296-000c29c6d5f2",
+            "name": "Модульная ширина (общ. кол-во модульных расстояний)",
+            "etimFeature": "EF002950",
+            "value": 1,
+            "etim_value": 1,
+            "unit": "",
+            "etimUnit": ""
+        },
+        {
+            "id": "151ad191-8c4d-11e4-ba37-005056b80040",
+            "name": "Гарантийный срок эксплуатации, лет",
+            "etimFeature": "",
+            "value": 10,
+            "etim_value": 10,
+            "unit": "",
+            "etimUnit": ""
+        },
+        {
+            "id": "2616e833-181b-11e6-9296-000c29c6d5f2",
+            "name": "Степень защиты (IP)",
+            "etimFeature": "EF005474",
+            "value": "EV006405",
+            "etim_value": "IP20",
+            "unit": "",
+            "etimUnit": ""
+        },
+        {
+            "id": "2616e853-181b-11e6-9296-000c29c6d5f2",
+            "name": "Количество защищенных полюсов",
+            "etimFeature": "EF005548",
+            "value": 1,
+            "etim_value": 1,
+            "unit": "",
+            "etimUnit": ""
+        },
+        {
+            "id": "2616e94c-181b-11e6-9296-000c29c6d5f2",
+            "name": "Одновременное отключение нейтрали (N)",
+            "etimFeature": "EF005997",
+            "value": "Нет",
+            "etim_value": "Нет",
+            "unit": "",
+            "etimUnit": ""
+        },
+        {
+            "id": "2616e974-181b-11e6-9296-000c29c6d5f2",
+            "name": "Номин. отключающая способность по EN 60898",
+            "etimFeature": "EF006064",
+            "value": 6,
+            "etim_value": 6,
+            "unit": "кА",
+            "etimUnit": "EU570170"
+        },
+        {
+            "id": "2616e975-181b-11e6-9296-000c29c6d5f2",
+            "name": "Номин. отключающая способность по IEC 60947-2",
+            "etimFeature": "EF006065",
+            "value": 6,
+            "etim_value": 6,
+            "unit": "кА",
+            "etimUnit": "EU570170"
+        },
+        {
+            "id": "2c119066-181b-11e6-9296-000c29c6d5f2",
+            "name": "Подходит для скрытого монтажа (заподлицо)",
+            "etimFeature": "EF006573",
+            "value": "Нет",
+            "etim_value": "Нет",
+            "unit": "",
+            "etimUnit": ""
+        },
+        {
+            "id": "3209d602-181b-11e6-9296-000c29c6d5f2",
+            "name": "Поперечн. сечение подключ. однопроволочного (жесткого) провода",
+            "etimFeature": "EF007337",
+            "value": "1...25",
+            "etim_value": "1...25",
+            "unit": "мм²",
+            "etimUnit": "EU570126"
+        },
+        {
+            "id": "3209d607-181b-11e6-9296-000c29c6d5f2",
+            "name": "Поперечн. сечение подключ. многопроволочного (гибкого) провода",
+            "etimFeature": "EF007343",
+            "value": "1...25",
+            "etim_value": "1...25",
+            "unit": "мм²",
+            "etimUnit": "EU570126"
+        },
+        {
+            "id": "3209d67f-181b-11e6-9296-000c29c6d5f2",
+            "name": "Рабочая температура окружающей среды",
+            "etimFeature": "EF007515",
+            "value": "-25...50",
+            "etim_value": "-25...50",
+            "unit": "°C",
+            "etimUnit": "EU570073"
+        },
+        {
+            "id": "38021bf9-181b-11e6-9296-000c29c6d5f2",
+            "name": "Возможна дополнит. комплектация",
+            "etimFeature": "EF008148",
+            "value": "Да",
+            "etim_value": "Да",
+            "unit": "",
+            "etimUnit": ""
+        },
+        {
+            "id": "38021d7f-181b-11e6-9296-000c29c6d5f2",
+            "name": "Общ. количество полюсов",
+            "etimFeature": "EF008618",
+            "value": 1,
+            "etim_value": 1,
+            "unit": "",
+            "etimUnit": ""
+        },
+        {
+            "id": "859dacdb-1b0d-11e9-a20d-00155dfa1116",
+            "name": "Срок службы, лет",
+            "etimFeature": "",
+            "value": 10,
+            "etim_value": 10,
+            "unit": "",
+            "etimUnit": ""
+        },
+        {
+            "id": "faf55e51-3712-11e8-80db-0cc47a0cbffe",
+            "name": "Номинальная отключающая способность короткого замыкания Icn EN 60898 при 400В",
+            "etimFeature": "EF009555",
+            "value": 3500,
+            "etim_value": 3500,
+            "unit": "кА",
+            "etimUnit": "EU570170"
+        },
+        {
+            "id": "faf55e52-3712-11e8-80db-0cc47a0cbffe",
+            "name": "Номинальная отключающая способность короткого замыкания Icn EN 60898, при 230В",
+            "etimFeature": "EF009556",
+            "value": 6000,
+            "etim_value": 6000,
+            "unit": "кА",
+            "etimUnit": "EU570170"
+        },
+        {
+            "id": "faf55e53-3712-11e8-80db-0cc47a0cbffe",
+            "name": "Номинальная отключающая способность короткого замыкания Icu МЭК 60947-2, при 230В",
+            "etimFeature": "EF009557",
+            "value": 6000,
+            "etim_value": 6000,
+            "unit": "кА",
+            "etimUnit": "EU570170"
+        },
+        {
+            "id": "faf55e54-3712-11e8-80db-0cc47a0cbffe",
+            "name": "Номинальная отключающая способность короткого замыкания Icu МЭК 60947-2 при 400В",
+            "etimFeature": "EF009558",
+            "value": 3500,
+            "etim_value": 3500,
+            "unit": "кА",
+            "etimUnit": "EU570170"
+        }
+    ]
+}03.03.19 18:27: {
+    "id": "5b5c54af-ef8f-11e6-bd2e-000c29c6d5f2",
+    "vendorCode": "mcb6-1-03B-av",
+    "shortName": "AV-6 1P  3A (B) 6kA EKF AVERES",
+    "name": "Выключатель автоматический AV-6 1P  3A (B) 6kA EKF AVERES",
+    "etimClass": "EC000042",
+    "properties": [
+        {
+            "id": "00edbb40-3713-11e8-80db-0cc47a0cbffe",
+            "name": "Номинальное импульсное выдерживаемое напряжение Uimp",
+            "etimFeature": "EF011980",
+            "value": 4000,
+            "etim_value": 4000,
+            "unit": "кВ",
+            "etimUnit": "EU570193"
+        },
+        {
+            "id": "0245454d-181b-11e6-9296-000c29c6d5f2",
+            "name": "Тип напряжения",
+            "etimFeature": "EF000187",
+            "value": "EV000460",
+            "etim_value": "AC (перемен.)",
+            "unit": "",
+            "etimUnit": ""
+        },
+        {
+            "id": "02454565-181b-11e6-9296-000c29c6d5f2",
+            "name": "Глубина установочная (встраив.)",
+            "etimFeature": "EF000218",
+            "value": 50,
+            "etim_value": 50,
+            "unit": "мм",
+            "etimUnit": "EU570448"
+        },
+        {
+            "id": "0245456c-181b-11e6-9296-000c29c6d5f2",
+            "name": "Номин. ток",
+            "etimFeature": "EF000227",
+            "value": 3,
+            "etim_value": 3,
+            "unit": "А",
+            "etimUnit": "EU570459"
+        },
+        {
+            "id": "0245456d-181b-11e6-9296-000c29c6d5f2",
+            "name": "Номин. (расчетное) напряжение",
+            "etimFeature": "EF000228",
+            "value": 230,
+            "etim_value": 230,
+            "unit": "В",
+            "etimUnit": "EU570079"
+        },
+        {
+            "id": "083d8a5c-181b-11e6-9296-000c29c6d5f2",
+            "name": "Частота",
+            "etimFeature": "EF000416",
+            "value": "50...50",
+            "etim_value": "50...50",
+            "unit": "Гц",
+            "etimUnit": "EU570028"
+        },
+        {
+            "id": "083d8bd6-181b-11e6-9296-000c29c6d5f2",
+            "name": "Характеристика срабатывания (кривая тока)",
+            "etimFeature": "EF000889",
+            "value": "EV000074",
+            "etim_value": "B",
+            "unit": "",
+            "etimUnit": ""
+        },
+        {
+            "id": "0e35d03c-181b-11e6-9296-000c29c6d5f2",
+            "name": "Номин. напряжение изоляции Ui",
+            "etimFeature": "EF001366",
+            "value": 660,
+            "etim_value": 660,
+            "unit": "В",
+            "etimUnit": "EU570079"
+        },
+        {
+            "id": "142e16ac-181b-11e6-9296-000c29c6d5f2",
+            "name": "Класс токоограничения",
+            "etimFeature": "EF002568",
+            "value": 3,
+            "etim_value": 3,
+            "unit": "",
+            "etimUnit": ""
+        },
+        {
+            "id": "142e16ad-181b-11e6-9296-000c29c6d5f2",
+            "name": "Категория перенапряжения",
+            "etimFeature": "EF002569",
+            "value": 3,
+            "etim_value": 3,
+            "unit": "",
+            "etimUnit": ""
+        },
+        {
+            "id": "142e16ae-181b-11e6-9296-000c29c6d5f2",
+            "name": "Степень загрязнения",
+            "etimFeature": "EF002570",
+            "value": 2,
+            "etim_value": 2,
+            "unit": "",
+            "etimUnit": ""
+        },
+        {
+            "id": "142e17c2-181b-11e6-9296-000c29c6d5f2",
+            "name": "Модульная ширина (общ. кол-во модульных расстояний)",
+            "etimFeature": "EF002950",
+            "value": 1,
+            "etim_value": 1,
+            "unit": "",
+            "etimUnit": ""
+        },
+        {
+            "id": "151ad191-8c4d-11e4-ba37-005056b80040",
+            "name": "Гарантийный срок эксплуатации, лет",
+            "etimFeature": "",
+            "value": 10,
+            "etim_value": 10,
+            "unit": "",
+            "etimUnit": ""
+        },
+        {
+            "id": "2616e833-181b-11e6-9296-000c29c6d5f2",
+            "name": "Степень защиты (IP)",
+            "etimFeature": "EF005474",
+            "value": "EV006405",
+            "etim_value": "IP20",
+            "unit": "",
+            "etimUnit": ""
+        },
+        {
+            "id": "2616e853-181b-11e6-9296-000c29c6d5f2",
+            "name": "Количество защищенных полюсов",
+            "etimFeature": "EF005548",
+            "value": 1,
+            "etim_value": 1,
+            "unit": "",
+            "etimUnit": ""
+        },
+        {
+            "id": "2616e94c-181b-11e6-9296-000c29c6d5f2",
+            "name": "Одновременное отключение нейтрали (N)",
+            "etimFeature": "EF005997",
+            "value": "Нет",
+            "etim_value": "Нет",
+            "unit": "",
+            "etimUnit": ""
+        },
+        {
+            "id": "2616e974-181b-11e6-9296-000c29c6d5f2",
+            "name": "Номин. отключающая способность по EN 60898",
+            "etimFeature": "EF006064",
+            "value": 6,
+            "etim_value": 6,
+            "unit": "кА",
+            "etimUnit": "EU570170"
+        },
+        {
+            "id": "2616e975-181b-11e6-9296-000c29c6d5f2",
+            "name": "Номин. отключающая способность по IEC 60947-2",
+            "etimFeature": "EF006065",
+            "value": 6,
+            "etim_value": 6,
+            "unit": "кА",
+            "etimUnit": "EU570170"
+        },
+        {
+            "id": "2c119066-181b-11e6-9296-000c29c6d5f2",
+            "name": "Подходит для скрытого монтажа (заподлицо)",
+            "etimFeature": "EF006573",
+            "value": "Нет",
+            "etim_value": "Нет",
+            "unit": "",
+            "etimUnit": ""
+        },
+        {
+            "id": "3209d602-181b-11e6-9296-000c29c6d5f2",
+            "name": "Поперечн. сечение подключ. однопроволочного (жесткого) провода",
+            "etimFeature": "EF007337",
+            "value": "1...25",
+            "etim_value": "1...25",
+            "unit": "мм²",
+            "etimUnit": "EU570126"
+        },
+        {
+            "id": "3209d607-181b-11e6-9296-000c29c6d5f2",
+            "name": "Поперечн. сечение подключ. многопроволочного (гибкого) провода",
+            "etimFeature": "EF007343",
+            "value": "1...25",
+            "etim_value": "1...25",
+            "unit": "мм²",
+            "etimUnit": "EU570126"
+        },
+        {
+            "id": "3209d67f-181b-11e6-9296-000c29c6d5f2",
+            "name": "Рабочая температура окружающей среды",
+            "etimFeature": "EF007515",
+            "value": "-25...50",
+            "etim_value": "-25...50",
+            "unit": "°C",
+            "etimUnit": "EU570073"
+        },
+        {
+            "id": "38021bf9-181b-11e6-9296-000c29c6d5f2",
+            "name": "Возможна дополнит. комплектация",
+            "etimFeature": "EF008148",
+            "value": "Да",
+            "etim_value": "Да",
+            "unit": "",
+            "etimUnit": ""
+        },
+        {
+            "id": "38021d7f-181b-11e6-9296-000c29c6d5f2",
+            "name": "Общ. количество полюсов",
+            "etimFeature": "EF008618",
+            "value": 1,
+            "etim_value": 1,
+            "unit": "",
+            "etimUnit": ""
+        },
+        {
+            "id": "859dacdb-1b0d-11e9-a20d-00155dfa1116",
+            "name": "Срок службы, лет",
+            "etimFeature": "",
+            "value": 10,
+            "etim_value": 10,
+            "unit": "",
+            "etimUnit": ""
+        },
+        {
+            "id": "faf55e51-3712-11e8-80db-0cc47a0cbffe",
+            "name": "Номинальная отключающая способность короткого замыкания Icn EN 60898 при 400В",
+            "etimFeature": "EF009555",
+            "value": 3500,
+            "etim_value": 3500,
+            "unit": "кА",
+            "etimUnit": "EU570170"
+        },
+        {
+            "id": "faf55e52-3712-11e8-80db-0cc47a0cbffe",
+            "name": "Номинальная отключающая способность короткого замыкания Icn EN 60898, при 230В",
+            "etimFeature": "EF009556",
+            "value": 6000,
+            "etim_value": 6000,
+            "unit": "кА",
+            "etimUnit": "EU570170"
+        },
+        {
+            "id": "faf55e53-3712-11e8-80db-0cc47a0cbffe",
+            "name": "Номинальная отключающая способность короткого замыкания Icu МЭК 60947-2, при 230В",
+            "etimFeature": "EF009557",
+            "value": 6000,
+            "etim_value": 6000,
+            "unit": "кА",
+            "etimUnit": "EU570170"
+        },
+        {
+            "id": "faf55e54-3712-11e8-80db-0cc47a0cbffe",
+            "name": "Номинальная отключающая способность короткого замыкания Icu МЭК 60947-2 при 400В",
+            "etimFeature": "EF009558",
+            "value": 3500,
+            "etim_value": 3500,
+            "unit": "кА",
+            "etimUnit": "EU570170"
+        }
+    ]
+}

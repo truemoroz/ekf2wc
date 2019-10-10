@@ -1,0 +1,16 @@
+kk-100-40-basic
+kk-100-60-basic
+kk-12-12-basic
+kk-15-10-basic
+kk-16-16-basic
+kk-20-10-basic
+kk-25-16-basic
+kk-25-25-basic
+kk-40-16-basic
+kk-40-25-basic
+kk-40-40-basic
+kk-60-40-basic
+kk-60-60-basic
+kk-80-40-basic
+kk-80-40-10m-basic
+kk-80-60-basic

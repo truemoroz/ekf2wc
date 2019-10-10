@@ -1,0 +1,17 @@
+plc-iz-a-w
+plc-iz-a-y
+plc-iz-a-yg
+plc-iz-a-g
+plc-iz-a-r
+plc-iz-a-s
+plc-iz-a-b
+plc-iz-b-w
+plc-iz-b-y
+plc-iz-b-yg
+plc-iz-b-g
+plc-iz-b-r
+plc-iz-b-s
+plc-iz-b-b
+plc-hb-pol1-1
+plc-hb-pol1-2
+plc-hb-pol1-3

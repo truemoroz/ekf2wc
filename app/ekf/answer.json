@@ -1,0 +1,310 @@
+{
+    "data": [
+        {
+            "id": "5b5c54ab-ef8f-11e6-bd2e-000c29c6d5f2",
+            "vendorCode": "mcb6-1-01B-av",
+            "shortName": "AV-6 1P  1A (B) 6kA EKF AVERES",
+            "name": "\u0412\u044b\u043a\u043b\u044e\u0447\u0430\u0442\u0435\u043b\u044c \u0430\u0432\u0442\u043e\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 AV-6 1P  1A (B) 6kA EKF AVERES",
+            "series": "Averes",
+            "status": "\u0420\u0435\u0433\u0443\u043b\u044f\u0440\u043d\u0430\u044f",
+            "statusRaec": "S",
+            "multiplicity": "1.00",
+            "retailRate": "1.00",
+            "productionTime": 125,
+            "updatedAt": "2019-01-18 06:04:59",
+            "productGroup": {
+                "id": "857eb3d2-608e-11e7-80cd-0cc47a0cbffe",
+                "name": "\u0425\u0430\u0440\u0430\u043a\u0442\u0435\u0440\u0438\u0441\u0442\u0438\u043a\u0430 B",
+                "series": "Averes"
+            },
+            "productType": {
+                "name": "\u041c\u043e\u0434\u0443\u043b\u044c\u043d\u044b\u0439 \u0430\u0432\u0442\u043e\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0432\u044b\u043a\u043b\u044e\u0447\u0430\u0442\u0435\u043b\u044c (\u0430\u0432\u0442\u043e\u043c\u0430\u0442)",
+                "etimClass": "EC000042"
+            },
+            "manufacturedBy": {
+                "name": "\u041a\u0438\u0442\u0430\u0439",
+                "alfa2": "CN",
+                "alfa3": "CHN"
+            },
+            "unitStorage": {
+                "international\u0421ode": "PCE",
+                "name": "\u0448\u0442",
+                "barcode": "4690216142012",
+                "coefficient": "1.000",
+                "weight": "0.1150",
+                "height": "0.0850",
+                "width": "0.0180",
+                "depth": "0.0780",
+                "volume": "0.00011934"
+            },
+            "unitGroupPacking": {
+                "international\u0421ode": "NMP",
+                "name": "\u0443\u043f\u0430\u043a. (12 \u0448\u0442)",
+                "barcode": "4690216142036",
+                "coefficient": "12.000",
+                "weight": "1.3800",
+                "height": "0.0880",
+                "width": "0.2250",
+                "depth": "0.0800",
+                "volume": "0.00158400"
+            },
+            "unitTransportPackaging": {
+                "international\u0421ode": "",
+                "name": "\u043a\u043e\u0440\u043e\u0431\u043a\u0430 (120 \u0448\u0442)",
+                "barcode": "14690216142019",
+                "coefficient": "120.000",
+                "weight": "14.0000",
+                "height": "0.1800",
+                "width": "0.2350",
+                "depth": "0.4600",
+                "volume": "0.01945800"
+            },
+            "relatedProducts": [
+                {
+                    "id": "2fe02669-57d1-11e6-b98c-000c29c6d5f2",
+                    "vendorCode": "av-min-averes",
+                    "shortName": "AV-MIN EKF AVERES",
+                    "name": "\u0420\u0430\u0441\u0446\u0435\u043f\u0438\u0442\u0435\u043b\u044c \u043c\u0438\u043d\u0438\u043c\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u043d\u0430\u043f\u0440\u044f\u0436\u0435\u043d\u0438\u044f AV-MIN EKF AVERES"
+                },
+                {
+                    "id": "c4b41655-c77e-11e6-bec7-000c29c6d5f2",
+                    "vendorCode": "av-mm-averes",
+                    "shortName": "AV-MM EKF AVERES",
+                    "name": "\u0420\u0430\u0441\u0446\u0435\u043f\u0438\u0442\u0435\u043b\u044c \u043c\u0430\u043a\u0441\u0438\u043c\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u0438 \u043c\u0438\u043d\u0438\u043c\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u043d\u0430\u043f\u0440\u044f\u0436\u0435\u043d\u0438\u044f AV-MM EKF AVERES"
+                },
+                {
+                    "id": "2fe0265d-57d1-11e6-b98c-000c29c6d5f2",
+                    "vendorCode": "av-of-averes",
+                    "shortName": "AV-OF EKF AVERES",
+                    "name": "\u041a\u043e\u043d\u0442\u0430\u043a\u0442 \u0432\u0441\u043f\u043e\u043c\u043e\u0433\u0430\u0442\u0435\u043b\u044c\u043d\u044b\u0439 AV-OF EKF AVERES"
+                },
+                {
+                    "id": "2fe02661-57d1-11e6-b98c-000c29c6d5f2",
+                    "vendorCode": "av-sd-averes",
+                    "shortName": "AV-SD EKF AVERES",
+                    "name": "\u041a\u043e\u043d\u0442\u0430\u043a\u0442 \u0441\u0438\u0433\u043d\u0430\u043b\u044c\u043d\u044b\u0439 AV-SD EKF AVERES"
+                },
+                {
+                    "id": "35e1f823-57d1-11e6-b98c-000c29c6d5f2",
+                    "vendorCode": "av-snt-averes",
+                    "shortName": "AV-SNT EKF AVERES",
+                    "name": "\u0420\u0430\u0441\u0446\u0435\u043f\u0438\u0442\u0435\u043b\u044c \u043d\u0435\u0437\u0430\u0432\u0438\u0441\u0438\u043c\u044b\u0439 AV-SNT EKF AVERES"
+                },
+                {
+                    "id": "72c126f7-04d5-11e7-ab3e-000c29c6d5f2",
+                    "vendorCode": "av-m6-averes",
+                    "shortName": "\u041f\u0440\u0438\u0432\u043e\u0434 \u043c\u043e\u0442\u043e\u0440\u043d\u044b\u0439 \u0441 \u0440\u0435\u0436\u0438\u043c\u043e\u043c \u0430\u0432\u0442\u043e\u0432\u0437\u0432\u043e\u0434\u0430 AV-M6 EKF AVERES",
+                    "name": "\u041f\u0440\u0438\u0432\u043e\u0434 \u043c\u043e\u0442\u043e\u0440\u043d\u044b\u0439 \u0441 \u0440\u0435\u0436\u0438\u043c\u043e\u043c \u0430\u0432\u0442\u043e\u0432\u0437\u0432\u043e\u0434\u0430 AV-M6 EKF AVERES"
+                }
+            ],
+            "analogs": [],
+            "url": "https:\/\/ekfgroup.com\/catalog\/products\/vyklyuchatel-avtomaticheskiy-av-6-1p-1a-b-6ka-ekf-averes"
+        }
+    ]
+}{
+    "data": [
+        {
+            "id": "c139469b-57d0-11e6-b98c-000c29c6d5f2",
+            "vendorCode": "mcb6-1-02B-av",
+            "shortName": "AV-6 1P  2A (B) 6kA EKF AVERES",
+            "name": "\u0412\u044b\u043a\u043b\u044e\u0447\u0430\u0442\u0435\u043b\u044c \u0430\u0432\u0442\u043e\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 AV-6 1P  2A (B) 6kA EKF AVERES",
+            "series": "Averes",
+            "status": "\u0420\u0435\u0433\u0443\u043b\u044f\u0440\u043d\u0430\u044f",
+            "statusRaec": "S",
+            "multiplicity": "1.00",
+            "retailRate": "1.00",
+            "productionTime": 125,
+            "updatedAt": "2019-01-18 06:05:33",
+            "productGroup": {
+                "id": "857eb3d2-608e-11e7-80cd-0cc47a0cbffe",
+                "name": "\u0425\u0430\u0440\u0430\u043a\u0442\u0435\u0440\u0438\u0441\u0442\u0438\u043a\u0430 B",
+                "series": "Averes"
+            },
+            "productType": {
+                "name": "\u041c\u043e\u0434\u0443\u043b\u044c\u043d\u044b\u0439 \u0430\u0432\u0442\u043e\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0432\u044b\u043a\u043b\u044e\u0447\u0430\u0442\u0435\u043b\u044c (\u0430\u0432\u0442\u043e\u043c\u0430\u0442)",
+                "etimClass": "EC000042"
+            },
+            "manufacturedBy": {
+                "name": "\u041a\u0438\u0442\u0430\u0439",
+                "alfa2": "CN",
+                "alfa3": "CHN"
+            },
+            "unitStorage": {
+                "international\u0421ode": "PCE",
+                "name": "\u0448\u0442",
+                "barcode": "4690216133256",
+                "coefficient": "1.000",
+                "weight": "0.1150",
+                "height": "0.0850",
+                "width": "0.0180",
+                "depth": "0.0780",
+                "volume": "0.00011934"
+            },
+            "unitGroupPacking": {
+                "international\u0421ode": "NMP",
+                "name": "\u0443\u043f\u0430\u043a. (12 \u0448\u0442)",
+                "barcode": "4690216127613",
+                "coefficient": "12.000",
+                "weight": "1.3800",
+                "height": "0.0850",
+                "width": "0.2400",
+                "depth": "0.0800",
+                "volume": "0.00163200"
+            },
+            "unitTransportPackaging": {
+                "international\u0421ode": "",
+                "name": "\u043a\u043e\u0440\u043e\u0431\u043a\u0430 (120 \u0448\u0442)",
+                "barcode": "14690216127610",
+                "coefficient": "120.000",
+                "weight": "11.5000",
+                "height": "0.1800",
+                "width": "0.2350",
+                "depth": "0.4600",
+                "volume": "0.01945800"
+            },
+            "relatedProducts": [
+                {
+                    "id": "2fe02669-57d1-11e6-b98c-000c29c6d5f2",
+                    "vendorCode": "av-min-averes",
+                    "shortName": "AV-MIN EKF AVERES",
+                    "name": "\u0420\u0430\u0441\u0446\u0435\u043f\u0438\u0442\u0435\u043b\u044c \u043c\u0438\u043d\u0438\u043c\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u043d\u0430\u043f\u0440\u044f\u0436\u0435\u043d\u0438\u044f AV-MIN EKF AVERES"
+                },
+                {
+                    "id": "c4b41655-c77e-11e6-bec7-000c29c6d5f2",
+                    "vendorCode": "av-mm-averes",
+                    "shortName": "AV-MM EKF AVERES",
+                    "name": "\u0420\u0430\u0441\u0446\u0435\u043f\u0438\u0442\u0435\u043b\u044c \u043c\u0430\u043a\u0441\u0438\u043c\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u0438 \u043c\u0438\u043d\u0438\u043c\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u043d\u0430\u043f\u0440\u044f\u0436\u0435\u043d\u0438\u044f AV-MM EKF AVERES"
+                },
+                {
+                    "id": "2fe0265d-57d1-11e6-b98c-000c29c6d5f2",
+                    "vendorCode": "av-of-averes",
+                    "shortName": "AV-OF EKF AVERES",
+                    "name": "\u041a\u043e\u043d\u0442\u0430\u043a\u0442 \u0432\u0441\u043f\u043e\u043c\u043e\u0433\u0430\u0442\u0435\u043b\u044c\u043d\u044b\u0439 AV-OF EKF AVERES"
+                },
+                {
+                    "id": "2fe02661-57d1-11e6-b98c-000c29c6d5f2",
+                    "vendorCode": "av-sd-averes",
+                    "shortName": "AV-SD EKF AVERES",
+                    "name": "\u041a\u043e\u043d\u0442\u0430\u043a\u0442 \u0441\u0438\u0433\u043d\u0430\u043b\u044c\u043d\u044b\u0439 AV-SD EKF AVERES"
+                },
+                {
+                    "id": "35e1f823-57d1-11e6-b98c-000c29c6d5f2",
+                    "vendorCode": "av-snt-averes",
+                    "shortName": "AV-SNT EKF AVERES",
+                    "name": "\u0420\u0430\u0441\u0446\u0435\u043f\u0438\u0442\u0435\u043b\u044c \u043d\u0435\u0437\u0430\u0432\u0438\u0441\u0438\u043c\u044b\u0439 AV-SNT EKF AVERES"
+                },
+                {
+                    "id": "72c126f7-04d5-11e7-ab3e-000c29c6d5f2",
+                    "vendorCode": "av-m6-averes",
+                    "shortName": "\u041f\u0440\u0438\u0432\u043e\u0434 \u043c\u043e\u0442\u043e\u0440\u043d\u044b\u0439 \u0441 \u0440\u0435\u0436\u0438\u043c\u043e\u043c \u0430\u0432\u0442\u043e\u0432\u0437\u0432\u043e\u0434\u0430 AV-M6 EKF AVERES",
+                    "name": "\u041f\u0440\u0438\u0432\u043e\u0434 \u043c\u043e\u0442\u043e\u0440\u043d\u044b\u0439 \u0441 \u0440\u0435\u0436\u0438\u043c\u043e\u043c \u0430\u0432\u0442\u043e\u0432\u0437\u0432\u043e\u0434\u0430 AV-M6 EKF AVERES"
+                }
+            ],
+            "analogs": [],
+            "url": "https:\/\/ekfgroup.com\/catalog\/products\/vyklyuchatel-avtomaticheskiy-av-6-1p-2a-b-6ka-ekf-averes"
+        }
+    ]
+}{
+    "data": [
+        {
+            "id": "5b5c54af-ef8f-11e6-bd2e-000c29c6d5f2",
+            "vendorCode": "mcb6-1-03B-av",
+            "shortName": "AV-6 1P  3A (B) 6kA EKF AVERES",
+            "name": "\u0412\u044b\u043a\u043b\u044e\u0447\u0430\u0442\u0435\u043b\u044c \u0430\u0432\u0442\u043e\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 AV-6 1P  3A (B) 6kA EKF AVERES",
+            "series": "Averes",
+            "status": "\u0420\u0435\u0433\u0443\u043b\u044f\u0440\u043d\u0430\u044f",
+            "statusRaec": "S",
+            "multiplicity": "1.00",
+            "retailRate": "1.00",
+            "productionTime": 125,
+            "updatedAt": "2019-01-18 06:02:11",
+            "productGroup": {
+                "id": "857eb3d2-608e-11e7-80cd-0cc47a0cbffe",
+                "name": "\u0425\u0430\u0440\u0430\u043a\u0442\u0435\u0440\u0438\u0441\u0442\u0438\u043a\u0430 B",
+                "series": "Averes"
+            },
+            "productType": {
+                "name": "\u041c\u043e\u0434\u0443\u043b\u044c\u043d\u044b\u0439 \u0430\u0432\u0442\u043e\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0432\u044b\u043a\u043b\u044e\u0447\u0430\u0442\u0435\u043b\u044c (\u0430\u0432\u0442\u043e\u043c\u0430\u0442)",
+                "etimClass": "EC000042"
+            },
+            "manufacturedBy": {
+                "name": "\u041a\u0438\u0442\u0430\u0439",
+                "alfa2": "CN",
+                "alfa3": "CHN"
+            },
+            "unitStorage": {
+                "international\u0421ode": "PCE",
+                "name": "\u0448\u0442",
+                "barcode": "4690216142210",
+                "coefficient": "1.000",
+                "weight": "0.1150",
+                "height": "0.0850",
+                "width": "0.0180",
+                "depth": "0.0780",
+                "volume": "0.00011934"
+            },
+            "unitGroupPacking": {
+                "international\u0421ode": "NMP",
+                "name": "\u0443\u043f\u0430\u043a. (12 \u0448\u0442)",
+                "barcode": "4690216142227",
+                "coefficient": "12.000",
+                "weight": "1.3800",
+                "height": "0.0880",
+                "width": "0.2250",
+                "depth": "0.0800",
+                "volume": "0.00158400"
+            },
+            "unitTransportPackaging": {
+                "international\u0421ode": "",
+                "name": "\u043a\u043e\u0440\u043e\u0431\u043a\u0430 (120 \u0448\u0442)",
+                "barcode": "14690216142217",
+                "coefficient": "120.000",
+                "weight": "14.0000",
+                "height": "0.1800",
+                "width": "0.2350",
+                "depth": "0.4600",
+                "volume": "0.01945800"
+            },
+            "relatedProducts": [
+                {
+                    "id": "2fe02669-57d1-11e6-b98c-000c29c6d5f2",
+                    "vendorCode": "av-min-averes",
+                    "shortName": "AV-MIN EKF AVERES",
+                    "name": "\u0420\u0430\u0441\u0446\u0435\u043f\u0438\u0442\u0435\u043b\u044c \u043c\u0438\u043d\u0438\u043c\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u043d\u0430\u043f\u0440\u044f\u0436\u0435\u043d\u0438\u044f AV-MIN EKF AVERES"
+                },
+                {
+                    "id": "c4b41655-c77e-11e6-bec7-000c29c6d5f2",
+                    "vendorCode": "av-mm-averes",
+                    "shortName": "AV-MM EKF AVERES",
+                    "name": "\u0420\u0430\u0441\u0446\u0435\u043f\u0438\u0442\u0435\u043b\u044c \u043c\u0430\u043a\u0441\u0438\u043c\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u0438 \u043c\u0438\u043d\u0438\u043c\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u043d\u0430\u043f\u0440\u044f\u0436\u0435\u043d\u0438\u044f AV-MM EKF AVERES"
+                },
+                {
+                    "id": "2fe0265d-57d1-11e6-b98c-000c29c6d5f2",
+                    "vendorCode": "av-of-averes",
+                    "shortName": "AV-OF EKF AVERES",
+                    "name": "\u041a\u043e\u043d\u0442\u0430\u043a\u0442 \u0432\u0441\u043f\u043e\u043c\u043e\u0433\u0430\u0442\u0435\u043b\u044c\u043d\u044b\u0439 AV-OF EKF AVERES"
+                },
+                {
+                    "id": "2fe02661-57d1-11e6-b98c-000c29c6d5f2",
+                    "vendorCode": "av-sd-averes",
+                    "shortName": "AV-SD EKF AVERES",
+                    "name": "\u041a\u043e\u043d\u0442\u0430\u043a\u0442 \u0441\u0438\u0433\u043d\u0430\u043b\u044c\u043d\u044b\u0439 AV-SD EKF AVERES"
+                },
+                {
+                    "id": "35e1f823-57d1-11e6-b98c-000c29c6d5f2",
+                    "vendorCode": "av-snt-averes",
+                    "shortName": "AV-SNT EKF AVERES",
+                    "name": "\u0420\u0430\u0441\u0446\u0435\u043f\u0438\u0442\u0435\u043b\u044c \u043d\u0435\u0437\u0430\u0432\u0438\u0441\u0438\u043c\u044b\u0439 AV-SNT EKF AVERES"
+                },
+                {
+                    "id": "72c126f7-04d5-11e7-ab3e-000c29c6d5f2",
+                    "vendorCode": "av-m6-averes",
+                    "shortName": "\u041f\u0440\u0438\u0432\u043e\u0434 \u043c\u043e\u0442\u043e\u0440\u043d\u044b\u0439 \u0441 \u0440\u0435\u0436\u0438\u043c\u043e\u043c \u0430\u0432\u0442\u043e\u0432\u0437\u0432\u043e\u0434\u0430 AV-M6 EKF AVERES",
+                    "name": "\u041f\u0440\u0438\u0432\u043e\u0434 \u043c\u043e\u0442\u043e\u0440\u043d\u044b\u0439 \u0441 \u0440\u0435\u0436\u0438\u043c\u043e\u043c \u0430\u0432\u0442\u043e\u0432\u0437\u0432\u043e\u0434\u0430 AV-M6 EKF AVERES"
+                }
+            ],
+            "analogs": [],
+            "url": "https:\/\/ekfgroup.com\/catalog\/products\/vyklyuchatel-avtomaticheskiy-av-6-1p-3a-b-6ka-ekf-averes"
+        }
+    ]
+}
