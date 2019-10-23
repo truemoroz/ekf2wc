@@ -1,5 +1,9 @@
 {
     "require": {
-        "automattic/woocommerce": "^3.0"
+        "automattic/woocommerce": "^3.0",
+      "ext-simplexml": "*",
+      "ext-dom": "*",
+      "ext-curl": "*",
+      "ext-json": "*"
     }
 }
